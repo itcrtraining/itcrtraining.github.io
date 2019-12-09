@@ -1,5 +1,5 @@
 ---
-title: "ITCR Training"
+title: "Learn Cancer Informatics"
 description:
 site: distill::distill_website
 ---

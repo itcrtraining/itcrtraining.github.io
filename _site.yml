@@ -7,6 +7,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Learners"
+      href: learners.html
+    - text: "Tool Developers"
+      href: tooldev.html
+    - text: "Content Creators"
+      href: contentdev.html
+    - text: "Instructors"
+      href: instructors.html
 output: distill::distill_article

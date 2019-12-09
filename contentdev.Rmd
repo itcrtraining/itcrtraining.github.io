@@ -1,5 +1,5 @@
 ---
-title: "ITCR Training"
+title: "Develop ITCR Content"
 description:
 site: distill::distill_website
 ---
