@@ -15,4 +15,3 @@ navbar:
       href: contentdev.html
     - text: "Instructors"
       href: instructors.html
-output: distill::distill_article
