@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "ITCR About"
 description: |
   Some additional details about the website
 ---
