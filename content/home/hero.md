@@ -40,16 +40,13 @@ hero_media = "hero-academic.png"
   url = "https://kind-jepsen-d4d966.netlify.com/courses/"
   label = "Start Learning"
   icon_pack = "fas"
-  icon = "leanpub"
+  icon = "chalkboard-teacher"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "https://kind-jepsen-d4d966.netlify.com/post/build-a-course/"
+  label = "Build a course"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-+++
+
 
 **The Cancer Informatics training you need, just when you need it**
 
