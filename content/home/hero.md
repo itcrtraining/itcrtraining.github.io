@@ -43,8 +43,8 @@ hero_media = "hero-academic.png"
   icon = "chalkboard-teacher"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "post/2019-12-16-build-a-course/"
+  label = "Build a course"
 
 +++
 
