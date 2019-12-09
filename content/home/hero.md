@@ -43,13 +43,11 @@ hero_media = "hero-academic.png"
   icon = "chalkboard-teacher"
   
 [cta_alt]
-  url = "https://kind-jepsen-d4d966.netlify.com/post/build-a-course/"
-  label = "Build a course"
+  url = "https://sourcethemes.com/academic/"
+  label = "View Documentation"
 
-
++++
 
 **The Cancer Informatics training you need, just when you need it**
 
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/itcrtraining/itcrtraining.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

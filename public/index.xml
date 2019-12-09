@@ -580,6 +580,25 @@ Three
     </item>
     
     <item>
+      <title>Build an ITN Course!</title>
+      <link>/post/2019-12-16-build-a-course/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/post/2019-12-16-build-a-course/</guid>
+      <description>
+
+
+&lt;div id=&#34;getting-started&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Getting started&lt;/h1&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Write your course on Github&lt;/li&gt;
+&lt;li&gt;Use our ITN didactr platform&lt;/li&gt;
+&lt;li&gt;Submit your course for review.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
