@@ -13,15 +13,15 @@ hero_media = ""
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting    #`text_color_light`.
+  #   Choose a light or dark text color by setting        `text_color_dark`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+   color = "white"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+#  gradient_start = "#4bb4e3"
+ # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
