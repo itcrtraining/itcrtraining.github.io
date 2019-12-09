@@ -4,7 +4,14 @@ description:
 site: distill::distill_website
 ---
 
-## All the Cancer Informatics Training You Need
+### All the Cancer Informatics Training You Need, Coming Soon
 
-Coming soon
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Learn</h5>
+    <p class="card-text">Learn cancer informatics online.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
 
