@@ -1,15 +1,10 @@
 ---
 title: "ITCR Training"
-description: |
-  Welcome to the website. I hope you enjoy it!
+description:
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## All the Cancer Informatics Training You Need
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
+Coming soon
 
