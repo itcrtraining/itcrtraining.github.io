@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "ITCR Training Network"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -37,10 +37,10 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "https://kind-jepsen-d4d966.netlify.com/courses/"
+  label = "Start Learning"
   icon_pack = "fas"
-  icon = "download"
+  icon = "leanpub"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
@@ -51,7 +51,7 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**The Cancer Informatics training you need, just when you need it**
 
 Build **Anything** with Widgets
 
