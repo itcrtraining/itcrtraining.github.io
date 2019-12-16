@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "E660396C",
-    "lastKnownWriteTime" : 1576502687,
-    "last_content_update" : 1576502687192,
+    "lastKnownWriteTime" : 1576502891,
+    "last_content_update" : 1576502891259,
     "path" : "/cloud/project/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "29,0",
-        "scrollLine" : "25"
+        "cursorPosition" : "27,14",
+        "scrollLine" : "21"
     },
     "read_only" : false,
     "read_only_alternatives" : [

@@ -10,22 +10,22 @@
 
 [[main]]
   name = "For Learners"
-  url = "#posts"
+  url = "#hero"
   weight = 20
 
 [[main]]
   name = "For Instructors"
-  url = "#projects"
+  url = "#hero"
   weight = 30
 
 [[main]]
   name = "For Content Developers"
-  url = "#featured"
+  url = "#hero"
   weight = 40
 
 [[main]]
   name = "didactr"
-  url = "courses/"
+  url = "#hero"
   weight = 50
 
 
