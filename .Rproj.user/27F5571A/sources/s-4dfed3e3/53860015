@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576500587753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "53860015",
+    "lastKnownWriteTime" : 1576500374,
+    "last_content_update" : 1576500374,
+    "path" : "/cloud/project/content/home/people.md",
+    "project_path" : "content/home/people.md",
+    "properties" : {
+        "cursorPosition" : "16,17",
+        "scrollLine" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

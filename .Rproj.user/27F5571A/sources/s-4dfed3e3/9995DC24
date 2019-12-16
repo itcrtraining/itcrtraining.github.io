@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576500625226.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9995DC24",
+    "lastKnownWriteTime" : 1576501561,
+    "last_content_update" : 1576501561857,
+    "path" : "/cloud/project/content/authors/sarah/_index.md",
+    "project_path" : "content/authors/sarah/_index.md",
+    "properties" : {
+        "cursorPosition" : "24,37",
+        "scrollLine" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
