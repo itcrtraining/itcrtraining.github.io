@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1576503195439.000,
+    "created" : 1576503510966.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "ED711B28",
-    "lastKnownWriteTime" : 1576499132,
-    "last_content_update" : 1576499132,
-    "path" : "/cloud/project/config.toml",
-    "project_path" : "config.toml",
+    "id" : "13077671",
+    "lastKnownWriteTime" : 1576502891,
+    "last_content_update" : 1576502891,
+    "path" : "/cloud/project/config/_default/menus.toml",
+    "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "18,5",
-        "scrollLine" : "14"
+        "cursorPosition" : "26,13",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
